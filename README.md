@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Laravel and Tailwind
 - 💞️ I’m looking to collaborate on Loyal Smart POS(Point of Sales)
 - 📫 How to reach me allsharawy41@gmail.com
+- Or direct call through +255 744003684
 
 <!---
 duke-boy54/duke-boy54 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
